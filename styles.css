@@ -1,0 +1,37 @@
+/******************************TAG SELECTOR************************************/
+body{
+  background-color: #bedcfa;
+}
+
+h1{
+  color: #0a043c;
+}
+
+h3{
+  color: #8f384d;
+}
+
+hr{
+  border-color: white;
+  border-style: dotted none none none;
+  width: 4%;
+  border-width: 5px;
+}
+
+/****************************CLASS SELECTOR************************************/
+/*GRP OF RELATED ITEMS*/
+.YASH{
+  width: 200px;
+  height: 200px;
+  background-color: gold;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/*******************************ID SELECTOR************************************/
+/*SIGNLE SPECIFIC ITEM*/
+#NAME{
+color: #060930;
+}
